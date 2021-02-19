@@ -12,6 +12,6 @@
 11. To the right of your search result, click *Connect*
 12. Scroll down to the bottom of the page and click *Deploy Branch*
 13. Wait until the dialogue says *Your app was successfully deployed.*
-14. Wait 60 seconds (required) then click *View* to see your peer website. **Welcome to RYU Coin**!
+14. Wait 60 seconds (required) then click *View* to see your peer account. **Welcome to RYU Coin**!
 
 ![RYU Coin Screenshot](RYU-Coin-Screenshot.png)
