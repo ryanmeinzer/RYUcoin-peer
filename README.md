@@ -2,7 +2,7 @@
 
 1. Create a free account on [GitHub](https://github.com/join), click *+* in top-right then click *Import repository* 
 2. Paste in https://github.com/ryanmeinzer/RYUcoin-peer
-3. Type in *RYU-peer-YOURNAME* for *Repository Name* and click *Begin import*
+3. Type in "RYU-peer-*YOURNAME*" for *Repository Name* and click *Begin import*
 5. Create a free account on [Heroku](https://signup.heroku.com/login) and go to your [Dashboard](https://dashboard.heroku.com/apps)
 6. Click *New* then *Create new app* in top-right
 7. Type in "RYU-peer-*YOURNAME*" and click *Create app*
