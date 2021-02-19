@@ -28,6 +28,9 @@ class App extends Component {
                     <div>Address: {address}</div>
                     <div>Balance: { balance }</div>
                 </div>
+                <div className='join'>
+                    <a href="https://github.com/ryanmeinzer/RYUcoin-peer" target="_blank">Join</a>
+                </div>
             </div>
         )
     }
