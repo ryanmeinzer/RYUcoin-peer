@@ -1,4 +1,4 @@
-### Join RYU Coin
+### Join RYU Coin to Receive 1,000 RYU
 
 1. Create a free account on [GitHub](https://github.com/join), click *+* in top-right then click *Import repository* 
 2. Paste in https://github.com/ryanmeinzer/RYUcoin-peer
