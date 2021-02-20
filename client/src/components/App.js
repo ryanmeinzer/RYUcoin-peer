@@ -25,13 +25,13 @@ class App extends Component {
                 <div><Link to='/transaction-pool'>Transaction Pool</Link></div>
                 <br />
                 <div className="WalletInfo">
-                    <div>Address: {address}</div>
-                    <div>Balance: { balance }</div>
+                    <div>Your Address: {address}</div>
+                    <div>Your Balance: { balance }</div>
                 </div>
                 <br />
-                <div className='join'>
+                {/* <div className='join'>
                     <a href="https://github.com/ryanmeinzer/RYUcoin-peer" target="_blank">Join</a>
-                </div>
+                </div> */}
             </div>
         )
     }
